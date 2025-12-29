@@ -1,4 +1,4 @@
-# Semana_Omnistack_11
+# be-the-hero
 
 1. Sistema para ajudar Ongs que cuidam e protegem animais.
 2. O aplicativo trabalha com envio de E-mail e conexão direta com o WhatsApp da Ong.
